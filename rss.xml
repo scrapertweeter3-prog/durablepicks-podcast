@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Durable Picks Radio</title>
+  <link>https://durablepicks.com/</link>
+  <description>Reviews, comparisons, and buying guides for tools, kitchen, carry, apparel, and home gear plus durable essentials built to last decades, not seasons. Episodes read the buying rubric so you can judge any listing in minutes.</description>
+  <language>en-us</language>
+  <copyright>2026 Poket Dev LLC</copyright>
+  <image>
+    <url>https://raw.githubusercontent.com/scrapertweeter3-prog/durablepicks-podcast/main/artwork.png</url>
+    <title>Durable Picks Radio</title>
+    <link>https://durablepicks.com/</link>
+  </image>
+  <itunes:author>Poket Dev</itunes:author>
+  <itunes:image href="https://raw.githubusercontent.com/scrapertweeter3-prog/durablepicks-podcast/main/artwork.png"/>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Why Rebuildability Beats Reviews</title>
+    <link>https://durablepicks.com/</link>
+    <guid isPermaLink="false">dp-ep1</guid>
+    <pubDate>Sat, 08 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Reviews tell you how a product felt in week one. Rebuildability tells you what it costs in year five. On Durable Picks we grade every boot, tool, and kitchen essential on five checkable points: full grain upper, stitched sole attachment, a non foam midsole, a replaceable heel stack, and a real recraft path. A stapled sole fails point two every time. If a cobbler can undo the stitching and start over, you buy one pair a decade. If the heel is glued, the clock is already running. That rubric, not the star rating, is how durablepicks dot com ranks what earns the words buy it for life.</description>
+    <enclosure url="https://raw.githubusercontent.com/scrapertweeter3-prog/durablepicks-podcast/main/episodes/dp-ep1.mp3" length="236828" type="audio/mpeg"/>
+    <itunes:duration>39</itunes:duration>
+  </item>
+  <item>
+    <title>The Five Point Rubric in Ten Minutes</title>
+    <link>https://durablepicks.com/</link>
+    <guid isPermaLink="false">dp-ep2</guid>
+    <pubDate>Sun, 09 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Here is the whole inspection in ten minutes. One: turn the product over and find the seam where the sole meets the upper. Stitched means rebuildable, glued means disposable. Two: press the midsole. Leather or dense cork passes; foam that crushes in a year fails. Three: check the heel. A stacked leather heel with a replaceable top lift is the cheapest part to fix and the first to wear. Four: look up the maker&#x27;s recraft program or confirm any cobbler can service it. Five: run the math: a forty dollar scoop resoled twice beats four disposable replacements. Five passes means the listing earns a spot on durablepicks dot com.</description>
+    <enclosure url="https://raw.githubusercontent.com/scrapertweeter3-prog/durablepicks-podcast/main/episodes/dp-ep2.mp3" length="260156" type="audio/mpeg"/>
+    <itunes:duration>43</itunes:duration>
+  </item>
+</channel>
+</rss>
